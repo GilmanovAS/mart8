@@ -30,3 +30,6 @@ def question5(request):
 
 def question6(request):
     return render(request, 'templates6/quest6.html')
+
+def question7(request):
+    return render(request, 'templates6/quest6.html')
